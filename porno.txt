@@ -1,0 +1,16 @@
+#EXTM3U
+#EXTINF:-1
+https://nlv23.hdsex2.com/9/5/1/951831693bac63f32d09ece64e1291be/stream/1080p/index.m3u8?h=90106cdbd423b7008714f7f26abe6c65&e=1702663902
+#EXTINF:-2
+https://nlv09.hdsex2.com/d/5/0/d50512a2e1cc18ac9a4205bc28df64d0/stream/1080p/index.m3u8?h=4f9b9a3d04561f47a3a5cdf6a0909089&e=1702664032
+#EXTINF:-3
+https://nlv06.videosection.com/6/5/2/6522eb6e65496e2cbf8bdf2ef94e5049/stream/1080p/index.m3u8?h=dd164d792df0e53c6612bd08f880109c&e=1702664206
+#EXTINF:-4
+https://ev-h.phncdn.com/hls/videos/201906/25/231416542/,1080P_4000K,720P_4000K,480P_2000K,240P_400K,_231416542.mp4.urlset/index-f1-v1-a1.m3u8?validfrom=1702646523&validto=1702653723&ipa=77.54.27.119&hdl=-1&hash=b71AURRijbvIjzCvmBAzr5SmSJs%3D
+
+#EXTINF:-5	
+https://b-hls-17.doppiocdn.net/hls/137601281/137601281_480p.m3u8
+
+
+
+
